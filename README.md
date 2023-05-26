@@ -3,7 +3,7 @@
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/python-engineer/chatbot-deployment.git
+$ git clone https://github.com/dharmik209/ChatBot_LLM
 $ cd chatbot-deployment
 $ python3 -m venv venv
 $ . venv/bin/activate
